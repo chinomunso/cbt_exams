@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 import copy
 
-st.set_page_config(page_title="CBT 9 Subjects + Payment", layout="wide", page_icon="📝")
+st.set_page_config(page_title="NONY TECHS CBT 9 Subjects + Payment", layout="wide", page_icon="📝")
 
 # ========== CONFIG ==========
 SUBJECTS = ["English", "Mathematics", "Physics", "Chemistry", "Biology", "Economics", "Government", "Computer Studies", "Current Affairs"]
